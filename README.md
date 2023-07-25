@@ -10,4 +10,4 @@ Users can search for any city in the world and receive accurate weather and fore
 
 
 view the app:
-[Weather App](https://weather-wizard-by-ediey.netlify.app/)https://weather-wizard-by-ediey.netlify.app/)
+[Weather App](https://weather-wizard-by-ediey.netlify.app/)
